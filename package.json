@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1"
+  },
+  "name": "KeWie-FilterBot",
+  "version": "1.0.0",
+  "description": "filterbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevinindy2k",
+  "license": "ISC"
+}

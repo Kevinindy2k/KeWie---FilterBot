@@ -1,0 +1,35 @@
+{
+  "token": "token",
+  "presence": "status",
+
+  "embed": {
+    "color": "#E74C3C"
+  },
+
+  "word_filter": {
+    "adminbypass": ["roleid"],
+    "blacklist_badwords": ["pussy", "หี", "ควย", "เย็ด", "fuck", "ควาย", "สลิ่ม", "มึง", "กระหรี่", "เหี้ย", "ค ว ย", "ไอเวร", "ไอสัส"]
+  },
+
+  "invite_filter": {
+    "adminbypass": ["roleid"],
+    "blacklist_invites": [
+      "discord.ru",
+      "discord.me",
+      "discord.gg",
+      ".gg/",
+      ".gg /",
+      ". gg /",
+      ". gg/",
+      "discord .gg /",
+      "discord.gg /",
+      "discord .gg/",
+      "discord .gg",
+      "discord . gg",
+      "discord. gg",
+      "discord gg",
+      "discordgg",
+      "discord gg /"
+    ]
+  }
+}
